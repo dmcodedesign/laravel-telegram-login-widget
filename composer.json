@@ -11,12 +11,6 @@
     ],
     "homepage": "https://github.com/pschocke/telegramloginwidget",
     "keywords": ["Laravel", "TelegramLoginWidget"],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/dmcodedesign/laravel-telegram-login-widget"
-        }
-    ],    
     "require": {
         "illuminate/support": "~10"
     },
